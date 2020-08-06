@@ -1,6 +1,6 @@
 # Funcionalidades
 
-## conecções 
+## Conexões
 
 - Rota para listar o total de conecções.
 - Rota para criar uma nova conexão.
