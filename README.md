@@ -3,7 +3,8 @@
 
 # Sobre o projeto
 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
-Aplicação para professores oferecerem aulas - Desenvolvida em React <br> Projeto desenvolvido durante a NLW - Next Level Week#02 oferecida pela Rocketseat.
+<br> 
+Projeto desenvolvido durante a NLW - Next Level Week#02 oferecida pela Rocketseat.
 
 # Funcionalidades
  - [x] Cadastro de professores
@@ -19,15 +20,15 @@ Aplicação para professores oferecerem aulas - Desenvolvida em React <br> Proje
  
  #  Layout
  
- ## Página de listagem dos professores
- ## Página de cadastro dos professores
+ ### Página de listagem dos professores
+ ### Página de cadastro dos professores
  
  # Instalação
  ## Rodando a aplicação
  
  ```bash
  # Clone este repositório
- $ git clone <https://github.com/tgmarinho/nlw1>
+ $ git clone <https://github.com/henriquecatunda/Proffy-Web.git>
  
  # Acesse a pasta do projeto no terminal/cmd
  $ cd Proffy
@@ -40,7 +41,7 @@ Aplicação para professores oferecerem aulas - Desenvolvida em React <br> Proje
  
  # O app vai estará rodando na porta 3000 - acesse <http://localhost:3000>
  ```
-### Autor
+## Autor
 ---
 
  <a href="https://www.linkedin.com/in/henrique-catunda-1a50851ab/">
