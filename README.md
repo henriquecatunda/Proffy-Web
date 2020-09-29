@@ -1,6 +1,8 @@
 <h1 align="center"> Proffy </h1>
 <p align="center">Sua plataforma de estudos online</p>
 
+![Tela home](https://github.com/henriquecatunda/Proffy-Web/blob/master/home.png)
+
 # Sobre o projeto
 Proffy - É uma plataforma onde você pode estudar ou dar aulas. Um professor colocando seu dados, a matéria que quer ensinar, e escolher o melhor horário para dar a sua aula. Assim, os dados cadastrados ficaram disponíveis no site onde alunos podem escolher o professor que melhor se encaixa na em suas preferências.
 <br> 
@@ -21,7 +23,9 @@ Projeto desenvolvido durante a NLW - Next Level Week#02 oferecida pela Rocketsea
  #  Layout
  
  ### Página de listagem dos professores
+ ![Tela home](https://github.com/henriquecatunda/Proffy-Web/blob/master/filtrar.png)
  ### Página de cadastro dos professores
+ ![Tela home](https://github.com/henriquecatunda/Proffy-Web/blob/master/cadastro.png)
  
  # Instalação
  ## Rodando a aplicação
